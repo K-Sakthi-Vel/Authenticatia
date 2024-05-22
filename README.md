@@ -1,6 +1,6 @@
 <h2>AUTHENTICATIA</h2>
 <br>
-LIVE APP: https://ks333-authenticatia.cyclic.app/
+LIVE APP: https://authenticatia.onrender.com/
 <br>
 <br>
 Authenticatia is a social media application capable of post images in the feed, add friend and friends list other than that users can like, command and share posts.
